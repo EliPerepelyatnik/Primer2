@@ -1,6 +1,6 @@
 k, T, C, L = symbols('k T C L') 
 #1 способ
-C_ost = 70_000
+C_ost = 100_000
 Am_lst = []
 C_ost_lst = []
 
